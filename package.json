@@ -1,0 +1,23 @@
+{
+  "name": "level-gql",
+  "version": "1.0.0",
+  "description": "gql on levelup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/level-gql.git"
+  },
+  "keywords": [
+    "genome",
+    "dna"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/level-gql/issues"
+  },
+  "homepage": "https://github.com/finnp/level-gql"
+}
